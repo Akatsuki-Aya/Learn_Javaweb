@@ -1,8 +1,5 @@
 package domain;
 
-/**
- * 用户的实体类
- */
 public class User {
     private int id;
     private String username;
